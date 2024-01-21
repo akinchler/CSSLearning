@@ -1,0 +1,12 @@
+body {
+    background-color: red;
+    height: 100vh;
+}
+
+@media only screen and (min-width: 800px) {
+    body {
+        background-color: cyan;
+        user-select: none;
+        color: trans
+    }
+}
